@@ -1,0 +1,43 @@
+.navbar {
+    background-color: lightsalmon;
+}
+
+.btn-primary {
+    background-color: lightsalmon;
+    border-color: lightsalmon;
+}
+
+.btn-outline-primary {
+    background-color: white;
+    border-color: lightsalmon;
+    color: salmon;
+}
+
+.btn-primary:hover, .btn-outline-primary:hover {
+    background-color: rgb(243, 114, 99);
+    border-color: rgb(243, 114, 99);
+}
+
+.h-100 {
+    padding-top: 156px;
+    padding-bottom: 120px;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("../images/conf.jpeg") no-repeat center / cover;
+}
+
+.speakers {
+    padding: 60px 0;
+}
+
+.speakers .card {
+    margin-bottom: 20px;
+}
+
+.speakers .card-img-top {
+    height: 220px;
+    padding-top: 5px;
+}
+
+.speakers .card-body {
+    height: 211px;
+}
+
